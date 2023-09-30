@@ -4,10 +4,13 @@ The above notebook covers the following topics:
 ### pip install matplotlib
 * Notebooks shows how to import Matplotlib module Pyplot.
 * It shows how to plot line graphs.
-  <img src = "">
+  <img src = "images/Capture 1.PNG">
 * Along with that, it also guides how to plot more than one graphs in the same plot.
-  <img src = "" >
+  <img src = "images/Capture 2.PNG" >
   * It then covers scatter plots with various attributes like cmap, alpha etc.
-    <img src = "" >
+    <img src = "images/Capture 3.PNG" >
+    <img src = "images/Capture 4.PNG" >
+    <img src = "images/Capture 5.PNG" >
+    <img src = "images/Capture 6.PNG" >
     
   * Then, Cover ways of implementing Bar plots.
