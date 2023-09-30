@@ -14,3 +14,8 @@ The above notebook covers the following topics:
     <img src = "images/Capture 6.PNG" >
     
   * Then, Cover ways of implementing Bar plots.
+    <img src = "images/Capture 7.PNG" >
+    <img src = "images/Capture 8.PNG" >
+    <img src = "images/Capture 9.PNG" >
+    <img src = "images/Capture 10.PNG" >
+    
